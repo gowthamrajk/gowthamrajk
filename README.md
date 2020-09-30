@@ -38,8 +38,6 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn.clipart.email/5b047e6f14a08e8180c95ad67925bd69_fileandroid-studio-iconsvg-wikimedia-commons_1200-1200.png" />][website]
 [<img align="left" alt="Arduino" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/arduino-226072.png" />][website]
 [<img align="left" alt="Energia" width="26px" src="https://icons.iconarchive.com/icons/hamzasaleem/stock-style-2/512/Launchpad-icon.png" />][website]
-[<img align="left" alt="MS Word" width="26px" src="https://www.pinclipart.com/picdir/big/401-4019240_na-ms-word-png-icon-clipart.png" />][website]
-[<img align="left" alt="MS Excel" width="26px" src="https://img2.pngio.com/excel-png-office-xlsx-icon-3379-free-icons-and-png-backgrounds-excel-icon-png-2000_2000.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
