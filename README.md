@@ -1,8 +1,5 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 
-[![HackerRank Follow](https://www.hackerrank.com/gowthamraj692)](https://www.hackerrank.com/gowthamraj692)
-[![LinkedIn Follow](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
-
 ## I'm a Student Placement Coordinator, Developer, and Project Team Lead !!!
 
 - 🔭 I love Problem Solving ans Application Development !
@@ -20,13 +17,12 @@
 [<img align="left" alt="GowthamRaj  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GowthamRaj  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://lh3.googleusercontent.com/proxy/gDsROuZjmOeNphrs_nzYs0QEroBsQPG03VHhb6XorJleAgkyg5fBylZzmdelEKBPYiZJe8DUfh-V_s0sOPLfxA83iQiTvJIEbV3-xvrRF9iWUU-ahHg" />][website]
+[<img align="left" alt="Java" width="26px" src="https://lh3.googleusercontent.com/proxy/lG99hQFn6f79nNh-2D1aWgDr4l6UkxDru-ZK38QDfWlG7jb9IK2_oOUIsJB7JbtFFggH7Ou2Iz6Rbq_Zj9f6LelafUgKvlOJWT_W5Hg4O7BOrFmtz9M" />][website]
 [<img align="left" alt="C Programming" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" />][website]
 [<img align="left" alt="Power Point" width="26px" src="https://www.freeiconspng.com/thumbs/ppt-icon/microsoft-powerpoint-document-icon-4.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -53,6 +49,7 @@
 
 ---------------------------------------------------------------------------------------------------------------
 [website1]: https://sites.google.com/view/code-jamm
+[hackerrank]: https://www.hackerrank.com/gowthamraj692
 [website]: https://github.com/gowthamrajk
 [twitter]: https://twitter.com/Gowtham29341737
 [youtube]: https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber
