@@ -1,8 +1,8 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 
-## I'm a Student Placement Coordinator, Developer, and Project Team Lead !!!
+## I'm a Student Placement Coordinator, Full Stack Developer, and Project Team Lead !!!
 
-- 🔭 I love Problem Solving ans Application Development !
+- 🔭 I love Problem Solving ans Application Development !!!
 - 🌱 currently Playing with Web Dev 🤣
 - 👯 I’m looking to collaborate with Developers
 - 🥅 2020 Goals: Contribute more, learn and Create more !!
@@ -33,6 +33,32 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn.clipart.email/5b047e6f14a08e8180c95ad67925bd69_fileandroid-studio-iconsvg-wikimedia-commons_1200-1200.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+
+<br />
+<br />
+
+### More About Me :
+
+I am very good in creating outstanding presentations, Design thinking and Project Ideas Generations. 
+
+I am good at creating beautiful UI mobile applications and Front-End web contents.
+
+I own a website (CODE JAMM) were you can find the learing materials and sample programs for java from Scratch with example problems and solutions.
+(Link: https://sites.google.com/view/code-jamm )
+
+I own an Application to Track COVID-19 Statistics worldWide - download link and Source code is there in my repository.
+
+PRESIDENT - Technical Clubs - at Sri Eshwar College Of Engineering ( 17 department clubs of ECE, CSE, EEE, MECH, CIVIL and 3 gendral clubs - maths, science, english ) - STUDENT LEADERSHIP COUNCIL (SLC) 
+
+One of the event organizers in Sri Eshwar College of Enginering (from SLC) 
+
+Student Placement Coordinator , class representative and IV(industrial visit) coordinator.
+
+NSS member and overall coordinator - Swatch Bharath Mission 2018-2019 and present
+
+# Achievements:    Winner - BIS INFOTECH - future city IOT design content 2019, Winner - Pitch Fest 2019 and won a free trip to Malaysia , Winner - Innovative project expo 2018 & 2019 , Quaterfinalist -  IICDC TEXAS INSTRUMENTS 2018, Semifinalist - IICDC TEXAS INSTRUMENTS 2019, Top 15 - TNSI 2020 tamilnadu south zone, GSEA 2019 - top 5 - coimbatore zone, Best cutting edge design - BIS INFOTECH 2019, Quaterfinalist - KPIT SPARKLE 2019.
+
+Apart from my achievements in projects, I am good in PCB designing, Team management , presenting skills, project management, leadership, Communication.
 
 <br />
 <br />
