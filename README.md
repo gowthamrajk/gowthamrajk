@@ -67,9 +67,6 @@
 
 - Apart from my achievements in projects, I am good in PCB designing, Team management , presenting skills, project management, leadership, Communication.
 
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
