@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://lh3.googleusercontent.com/proxy/lG99hQFn6f79nNh-2D1aWgDr4l6UkxDru-ZK38QDfWlG7jb9IK2_oOUIsJB7JbtFFggH7Ou2Iz6Rbq_Zj9f6LelafUgKvlOJWT_W5Hg4O7BOrFmtz9M" />][website]
+[<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />][website]
 [<img align="left" alt="C Programming" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" />][website]
 [<img align="left" alt="C++ Programming" width="26px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" />][website]
 [<img align="left" alt="Power Point" width="26px" src="https://www.freeiconspng.com/thumbs/ppt-icon/microsoft-powerpoint-document-icon-4.png" />][website]
