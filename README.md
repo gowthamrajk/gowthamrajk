@@ -55,7 +55,7 @@
 
 - I own an Application to Track COVID-19 Statistics worldWide - download link and Source code is there in my repository.
 
--### PRESIDENT - Technical Clubs - at Sri Eshwar College Of Engineering ( 17 department clubs of ECE, CSE, EEE, MECH, CIVIL and 3 gendral clubs - maths, science, english ) - STUDENT LEADERSHIP COUNCIL (SLC) 
+- ### PRESIDENT - Technical Clubs - at Sri Eshwar College Of Engineering ( 17 department clubs of ECE, CSE, EEE, MECH, CIVIL and 3 gendral clubs - maths, science, english ) - STUDENT LEADERSHIP COUNCIL (SLC) 
 
 - One of the event organizers in Sri Eshwar College of Enginering (from SLC) 
 
