@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools known:
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />][website]
 [<img align="left" alt="C Programming" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" />][website]
