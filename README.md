@@ -50,20 +50,20 @@
 
 - I am good at creating beautiful UI mobile applications and Front-End web contents.
 
-- I own a website (CODE JAMM) were you can find the learing materials and sample programs for java from Scratch with example problems and solutions.
-(Link: https://sites.google.com/view/code-jamm )
+- **I own a website (CODE JAMM) were you can find the learing materials and sample programs for java from Scratch with example problems and solutions.
+(Link: https://sites.google.com/view/code-jamm )**
 
 - I own an Application to Track COVID-19 Statistics worldWide - download link and Source code is there in my repository.
 
-- ### PRESIDENT - Technical Clubs - at Sri Eshwar College Of Engineering ( 17 department clubs of ECE, CSE, EEE, MECH, CIVIL and 3 gendral clubs - maths, science, english ) - STUDENT LEADERSHIP COUNCIL (SLC) 
+- **PRESIDENT** - Technical Clubs - at Sri Eshwar College Of Engineering ( 17 department clubs of ECE, CSE, EEE, MECH, CIVIL and 3 gendral clubs - maths, science, english ) - STUDENT LEADERSHIP COUNCIL (SLC)
 
 - One of the event organizers in Sri Eshwar College of Enginering (from SLC) 
 
-- Student Placement Coordinator , class representative and IV(industrial visit) coordinator.
+- **Student Placement Coordinator** , class representative and IV(industrial visit) coordinator.
 
 - NSS member and overall coordinator - Swatch Bharath Mission 2018-2019 and present
 
-- Achievements:    Winner - BIS INFOTECH - future city IOT design content 2019, Winner - Pitch Fest 2019 and won a free trip to Malaysia , Winner - Innovative project expo 2018 & 2019 , Quaterfinalist -  IICDC TEXAS INSTRUMENTS 2018, Semifinalist - IICDC TEXAS INSTRUMENTS 2019, Top 15 - TNSI 2020 tamilnadu south zone, GSEA 2019 - top 5 - coimbatore zone, Best cutting edge design - BIS INFOTECH 2019, Quaterfinalist - KPIT SPARKLE 2019.
+- **Achievements:    Winner - BIS INFOTECH - future city IOT design content 2019, Winner - Pitch Fest 2019 and won a free trip to Malaysia , Winner - Innovative project expo 2018 & 2019 , Quaterfinalist -  IICDC TEXAS INSTRUMENTS 2018, Semifinalist - IICDC TEXAS INSTRUMENTS 2019, Top 15 - TNSI 2020 tamilnadu south zone, GSEA 2019 - top 5 - coimbatore zone, Best cutting edge design - BIS INFOTECH 2019, Quaterfinalist - KPIT SPARKLE 2019**
 
 - Apart from my achievements in projects, I am good in PCB designing, Team management , presenting skills, project management, leadership, Communication.
 
