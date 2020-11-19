@@ -1,6 +1,6 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 
-## I'm a Student Placement Coordinator,President - Technical Clubs and Project Team Lead !!!
+## I'm a Student Placement Coordinator, President - Technical Clubs and Project Team Lead !!!
 
 - 🔭 I love Problem Solving ans Application Development !!!
 - 🌱 currently Playing with Web Dev 🤣
