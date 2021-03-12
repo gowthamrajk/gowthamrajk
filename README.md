@@ -35,7 +35,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="PL-SQL" width="26px" src="https://img2.pngio.com/pl-sql-my-trocaire-plsql-png-200_200.png" />][website]
-[<img align="left" alt="Android Studio" width="26px" src="https://cdn.clipart.email/5b047e6f14a08e8180c95ad67925bd69_fileandroid-studio-iconsvg-wikimedia-commons_1200-1200.png" />][website]
+[<img align="left" width="26px" src="https://cdn.clipart.email/5b047e6f14a08e8180c95ad67925bd69_fileandroid-studio-iconsvg-wikimedia-commons_1200-1200.png" />][website]
 [<img align="left" alt="Arduino" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/arduino-226072.png" />][website]
 [<img align="left" alt="Energia" width="26px" src="https://icons.iconarchive.com/icons/hamzasaleem/stock-style-2/512/Launchpad-icon.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
