@@ -5,7 +5,7 @@
 - 🔭 I love Problem Solving ans Application Development !!!
 - 🌱 currently Playing with Web Dev 🤣
 - 👯 I’m looking to collaborate with Developers
-- 🥅 2020 Goals: Contribute more, learn and Create more !!
+- 🥅 2021 Goals: Contribute more, learn and Create more !!
 - ⚡ Fun fact: I love Sketching and listening music
 
 
