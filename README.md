@@ -63,6 +63,8 @@
 
 - NSS member and overall coordinator - Swatch Bharath Mission 2018-2019 and present
 
+- **OverAll ECE Department All Rounder for the Academic year 2020-2021**
+
 - **Achievements:    Winner - BIS INFOTECH - future city IOT design content 2019, Winner - Pitch Fest 2019 and won a free trip to Malaysia , Winner - Innovative project expo 2018 & 2019 , Winner - IRTT DESIGN CHALLENGE 2021, Quaterfinalist -  IICDC TEXAS INSTRUMENTS 2018, Semifinalist - IICDC TEXAS INSTRUMENTS 2019, Top 15 - TNSI 2020 tamilnadu south zone, GSEA 2019 - top 5 - coimbatore zone, Best cutting edge design - BIS INFOTECH 2019, Quaterfinalist - KPIT SPARKLE 2019**
 
 - Apart from my achievements in projects, I am good in PCB designing, Team management , presenting skills, project management, leadership, Communication.
