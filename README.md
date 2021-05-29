@@ -1,8 +1,6 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight)
-
 ### Connect with me 👋:
 
 [<img align="left" alt="code-Jamm.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
@@ -77,6 +75,12 @@
 - Apart from my achievements in projects, I am good in PCB designing, Team management , presenting skills, project management, leadership, Communication.
 
 ---
+
+# My Github Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 ### 📺 Some Latest YouTube Videos
 
