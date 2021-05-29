@@ -1,4 +1,7 @@
 ## Hi there, I'm GowthamRaj K 👋👋
+
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&style=bold&color=0f403d&lines=I'm+a+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
 
 ### Connect with me 👋:
@@ -12,7 +15,7 @@
 <br />
 <br />
 
-## I'm a Student Placement Coordinator, President - Technical Clubs, Web Developer !!!
+## Interesting Facts !!!
 
 - 🔭 I love Problem Solving ans Application Development !!!
 - 🌱 currently Playing with Web Dev 🤣
