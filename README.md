@@ -1,6 +1,5 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
-[![Github](https://visitor-badge.laobi.icu/badge?page_id=gowthamrajk.gowthamrajk)]
 
 ### Connect with me 👋:
 
@@ -76,7 +75,7 @@
 
 ---
 
-❤️ # My Github Stats:
+### My Github Stats ❤️ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&line_height=27)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight&hide_langs_below=1)
 
@@ -89,6 +88,13 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
 
 ---------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 [website1]: https://sites.google.com/view/code-jamm
 [hackerrank]: https://www.hackerrank.com/gowthamraj692
 [website]: https://github.com/gowthamrajk
