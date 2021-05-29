@@ -1,5 +1,6 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
+![Github](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
 ### Connect with me 👋:
 
@@ -22,7 +23,6 @@
 
 
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?style=social)](https://twitter.com/Gowtham29341737)
-[![Linkedin](https://img.shields.io/linkedin/gowtham-kittusamy-54b835174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
 
 ### Languages and Tools known:
@@ -78,7 +78,7 @@
 
 ❤️ # My Github Stats:
 
-<a>![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&line_height=27)</a>   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight&hide_langs_below=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&line_height=27)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight&hide_langs_below=1)
 
 ### 📺 Some Latest YouTube Videos
 
