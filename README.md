@@ -33,7 +33,6 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Servlet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tomcat-logo.svg/1280px-Tomcat-logo.svg.png" />][website]
 [<img align="left" alt="JSP" width="26px" src="https://png.pngtree.com/png-vector/20190406/ourlarge/pngtree-jsp-file-document-icon-png-image_917250.jpg" />][website]
 [<img align="left" alt="UML" width="26px" src="https://image.winudf.com/v2/image/dXRuZy5yb21hbi5hcHAudW1sX2ljb25fMF9hYzNmZGY5OQ/icon.png?w=170&fakeurl=1" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
