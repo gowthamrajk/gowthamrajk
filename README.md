@@ -14,6 +14,7 @@
 [<img align="left" alt="GowthamRaj  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GowthamRaj  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?lable=9698382306&style=for-the-badge&logo=whatsapp&logoColor=white)](https://twitter.com/Gowtham29341737)
 <br />
 <br />
 
@@ -28,7 +29,7 @@
 - 🥅 2021 Goals: Contribute more, learn and Create more !!
 - ⚡ Fun fact: Big Fan to Listen Music & Sketching
 
-
+<br>
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?label=Follow&style=social)](https://twitter.com/Gowtham29341737)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social)](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
