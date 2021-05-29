@@ -1,15 +1,6 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
 
-## I'm a Student Placement Coordinator, President - Technical Clubs, Project Team Lead !!!
-
-- 🔭 I love Problem Solving ans Application Development !!!
-- 🌱 currently Playing with Web Dev 🤣
-- 👯 I’m looking to collaborate with Developers
-- 🥅 2021 Goals: Contribute more, learn and Create more !!
-- ⚡ Fun fact: I love Sketching and listening music
-
-
 ### Connect with me 👋:
 
 [<img align="left" alt="code-Jamm.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
@@ -20,6 +11,19 @@
 [<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
+
+## I'm a Student Placement Coordinator, President - Technical Clubs, Web Developer !!!
+
+- 🔭 I love Problem Solving ans Application Development !!!
+- 🌱 currently Playing with Web Dev 🤣
+- 👯 I’m looking to collaborate with Developers
+- 🥅 2021 Goals: Contribute more, learn and Create more !!
+- ⚡ Fun fact: I love Sketching and listening music
+
+
+[![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?style=social)](https://twitter.com/Gowtham29341737)
+[![Linkedin: imthepk](https://img.shields.io/badge/-gowtham-kittusamy-54b835174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
+[![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
 
 ### Languages and Tools known:
 
