@@ -72,7 +72,7 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=HackerEarth&color=2C3454&logo=HackerEarth&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Skill+Rack&color=DD6620&logo=skill+Rack&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Skill+Rack&color=324c8c&logo=skill+Rack&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Coding+Ninjas&color=DD6620&logo=Coding+Ninjas&logoColor=FFFFFF&label=)
 
 <br />
