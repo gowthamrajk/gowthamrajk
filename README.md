@@ -2,7 +2,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker)
 
-<img align="right" alt="Coding" width="360" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<img align="right" alt="Coding" width="370" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Visitors&color=blue&style=plastic" alt="gowthamrajk" /> </p>
 
 
@@ -23,15 +23,17 @@
 - 🔭 I love Problem Solving ans Application Development !!!
 - 🌱 currently Playing with Web Dev 🤣
 - 💬 Ask me about Design Thinking and Outstanding Presentations 
-- 📫 How to reach me: [gowthamraj692@gmail.com](mailto:gowthamraj692@gmail.com) & 9698382306 / 8610254674
+- 📫 How to reach me: [gowthamraj692@gmail.com](mailto:gowthamraj692@gmail.com)
 - 🤔 I’m looking to collaborate on Full stack web development
 - 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Contribute more, learn and Create more !!
 - ⚡ Fun fact: Big Fan to Listen Music & Sketching
 
-<br>
+
+
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?label=Follow&style=social)](https://twitter.com/Gowtham29341737)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social)](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
 
 ## My Profile Trophy Stars 📺
