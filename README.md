@@ -78,7 +78,7 @@
 
 ❤️ # My Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&line_height=27)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+<a>![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&line_height=27)</a>   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight&hide_langs_below=1)
 
 ### 📺 Some Latest YouTube Videos
 
