@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/Programming-181873?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/JAVA-630828?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge&logo=C++&logoColor=white)
-![](https://img.shields.io/badge/PowerPoint-e38a42?style=for-the-badge&logo=powerpoint&logoColor=white)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+PowerPoint&color=B7472A&logo=Microsoft+PowerPoint&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/JSP-c43e1f?style=for-the-badge&logo=jsp&logoColor=white)
 ![](https://img.shields.io/badge/UML-cc7b25?style=for-the-badge&logo=uml&logoColor=white)
 ![](https://img.shields.io/badge/SQL-27356b?style=for-the-badge&logo=mysql&logoColor=white)
