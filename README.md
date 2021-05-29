@@ -55,7 +55,7 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
-![](https://img.shields.io/badge/SprinToolSuite-37732e?style=for-the-badge&logo=sts&logoColor=white)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Tool+Suit&color=6DB33F&logo=Spring+Tool+suit&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/ENERGIA-c43e1f?style=for-the-badge&logo=energia&logoColor=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=)
