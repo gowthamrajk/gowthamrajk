@@ -1,6 +1,6 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=bold&color=0f403d&lines=I'm+a+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
 
@@ -27,7 +27,13 @@
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?style=social)](https://twitter.com/Gowtham29341737)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
 
-### Languages and Tools known:
+### My skills 🚀
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/java-0769AD?style=for-the-badge&logo=java&logoColor=white)
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />][website]
 [<img align="left" alt="C Programming" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" />][website]
