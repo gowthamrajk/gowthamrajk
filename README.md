@@ -20,10 +20,11 @@
 - 🔭 I love Problem Solving ans Application Development !!!
 - 🌱 currently Playing with Web Dev 🤣
 - 💬 Ask me about Design Thinking and Outstanding Presentations 
-- 📫 How to reach me: [gowthamraj692@gmail.com](mailto:gowthamraj692@gmail.com) & [Contact] - 9698382306 / 8610254674
-- 👯 I’m looking to collaborate with Developers
+- 📫 How to reach me: [gowthamraj692@gmail.com](mailto:gowthamraj692@gmail.com) & 9698382306 / 8610254674
+- 🤔 I’m looking to collaborate on Full stack web development
+- 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Contribute more, learn and Create more !!
-- ⚡ Fun fact: I love Sketching and listening music
+- ⚡ Fun fact: Big Fan to Listen Music & Sketching
 
 
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?style=social)](https://twitter.com/Gowtham29341737)
@@ -83,7 +84,7 @@
 
 <br />
 
-## More About Me 🔭
+## More About Me 🤔
 
 - I am very good in creating outstanding presentations, Design thinking and Project Ideas Generations. 
 
