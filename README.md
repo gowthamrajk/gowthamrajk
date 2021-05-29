@@ -27,9 +27,11 @@
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?style=social)](https://twitter.com/Gowtham29341737)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
 
+## My Profile Trophy Stars 📺
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowthamrajk" alt="gowthamrajk" /></a> </p>
 
-### My skills 🚀
+## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,7 +52,7 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 
 
-### Tools & Tech stacks ⚡
+## Tools & Tech stacks ⚡
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
@@ -69,7 +71,7 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 
 
-### Competetive Coding 🥅
+## Competetive Coding 🥅
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=HackerEarth&color=2C3454&logo=HackerEarth&logoColor=FFFFFF&label=)
@@ -79,7 +81,7 @@
 
 <br />
 
-### More About Me 🔭
+## More About Me 🔭
 
 - I am very good in creating outstanding presentations, Design thinking and Project Ideas Generations. 
 
@@ -106,7 +108,7 @@
 
 ---
 
-### My Github Stats ❤️ 
+## My Github Stats ❤️ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamrajk&show_icons=true&theme=radical&locale=en&layout=compact" alt="gowthamrajk" /></p>
 
@@ -115,7 +117,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamrajk&theme=radical&" alt="gowthamrajk" /></p>
 
 
-### 📺 Some Latest YouTube Videos
+## 📺 Some Latest YouTube Videos
 
 - [Fibbinary Number | Optimised Solution with O(1) Time Complexity | Java | Step By Step Tutorial 2020](https://youtu.be/rPcQKGv5FMU)
 - [Reverse Elements using Stack | Java ](https://youtu.be/0MI8Qms4K4w)
