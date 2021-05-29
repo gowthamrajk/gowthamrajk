@@ -22,7 +22,7 @@
 
 
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?style=social)](https://twitter.com/Gowtham29341737)
-[![Linkedin gowtham-kittusamy-54b835174](https://img.shields.io/badge/-gowtham-kittusamy-54b835174?style=social)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
+[![Linkedin](https://img.shields.io/badge/gowtham-kittusamy-54b835174?style=social)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
 
 ### Languages and Tools known:
