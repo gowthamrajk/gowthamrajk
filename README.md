@@ -78,11 +78,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamrajk&show_icons=true&theme=dark&locale=en&layout=compact" alt="gowthamrajk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&locale=en" alt="gowthamrajk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=radical&locale=en" alt="gowthamrajk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamrajk&theme=dark&" alt="gowthamrajk" /></p>
 
-[![gowthamraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gowthamrajk)](https://github.com/gowthamrajk/github-readme-stats)
 
 ### 📺 Some Latest YouTube Videos
 
