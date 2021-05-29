@@ -77,8 +77,7 @@
 
 ### My Github Stats ❤️ 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&line_height=27)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight&hide_langs_below=1)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight&hide_langs_below=1)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&line_height=27)
 ### 📺 Some Latest YouTube Videos
 
 - [Fibbinary Number | Optimised Solution with O(1) Time Complexity | Java | Step By Step Tutorial 2020](https://youtu.be/rPcQKGv5FMU)
