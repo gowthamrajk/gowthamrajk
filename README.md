@@ -31,7 +31,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?label=Follow&style=social)](https://twitter.com/Gowtham29341737)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social">
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social)](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
 
 ## My Profile Trophy Stars 📺
 
