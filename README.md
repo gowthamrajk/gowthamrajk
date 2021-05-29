@@ -1,5 +1,5 @@
 ## Hi there, I'm GowthamRaj K 👋👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
 ## I'm a Student Placement Coordinator, President - Technical Clubs, Project Team Lead !!!
 
 - 🔭 I love Problem Solving ans Application Development !!!
