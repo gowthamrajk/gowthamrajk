@@ -1,5 +1,6 @@
 ## Hi there, I'm GowthamRaj K 👋👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
+![](https://visitor-badge.laobi.icu/badge?page_id=gowthamrajk.gowthamrajk)
 
 ### Connect with me 👋:
 
