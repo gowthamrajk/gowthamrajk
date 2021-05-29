@@ -111,6 +111,10 @@
 
 ---
 
+## My Github Metrics ❤️ 
+
+![](https://metrics.lecoq.io/gowthamrajk)  
+
 ## My Github Stats ❤️ 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamrajk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
