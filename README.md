@@ -113,7 +113,7 @@
 
 ## My Github Stats ❤️ 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamrajk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamrajk&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=radical&locale=en" alt="gowthamrajk" /></p>
 
