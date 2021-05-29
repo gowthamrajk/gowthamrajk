@@ -14,7 +14,7 @@
 [<img align="left" alt="GowthamRaj  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GowthamRaj  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?lable=9698382306&style=for-the-badge&logo=whatsapp&logoColor=white)](https://twitter.com/Gowtham29341737)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?label=9698382306&style=for-the-badge&logo=whatsapp&logoColor=white)]
 <br />
 <br />
 
