@@ -44,6 +44,7 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 
 
@@ -55,7 +56,9 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Tool+Suit&color=6DB33F&logo=Spring+Tool+suit&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Stackbit&color=207BEA&logo=Stackbit&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/ENERGIA-c43e1f?style=for-the-badge&logo=energia&logoColor=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=)
@@ -64,8 +67,14 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 
 
+### Competetive Coding 🥅
 
-<br />
+![](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=HackerEarth&color=2C3454&logo=HackerEarth&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Skill+Rack&color=DD6620&logo=skill+Rack&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Coding+Ninjas&color=DD6620&logo=Coding+Ninjas&logoColor=FFFFFF&label=)
+
 <br />
 
 ### More About Me 🔭
