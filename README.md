@@ -76,9 +76,7 @@
 
 ### My Github Stats ❤️ 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight&hide_langs_below=1)   
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&line_height=27)
+<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight&hide_langs_below=1)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&locale=en" alt="gowthamrajk" /></p>
 
