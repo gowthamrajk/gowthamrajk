@@ -35,8 +35,8 @@
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social)](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white)](https://instagram.com/gow_t_h_a_m_r_a_j)
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=social&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gowthamraj692)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=pink)](https://instagram.com/gow_t_h_a_m_r_a_j)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=social&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/gowthamraj692)
 
 ## My Profile Trophy Stars 📺
 
