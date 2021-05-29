@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Programming-181873?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/JAVA-630828?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Programming-181873?style=for-the-badge&logo=C++&logoColor=white)
+![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge&logo=C++&logoColor=white)
 ![](https://img.shields.io/badge/PowerPoint-e38a42?style=for-the-badge&logo=powerpoint&logoColor=white)
 
 
