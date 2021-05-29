@@ -2,7 +2,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Views&color=blue&style=plastic" alt="gowthamrajk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Visitors&color=blue&style=plastic" alt="gowthamrajk" /> </p>
 
 ### Connect with me 👋:
 
