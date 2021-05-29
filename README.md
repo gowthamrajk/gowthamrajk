@@ -19,6 +19,8 @@
 
 - 🔭 I love Problem Solving ans Application Development !!!
 - 🌱 currently Playing with Web Dev 🤣
+- 💬 Ask me about Design Thinking and Outstanding Presentations 
+- 📫 How to reach me: [gowthamraj692@gmail.com](mailto:gowthamraj692@gmail.com) & [Contact] - 9698382306 / 8610254674
 - 👯 I’m looking to collaborate with Developers
 - 🥅 2021 Goals: Contribute more, learn and Create more !!
 - ⚡ Fun fact: I love Sketching and listening music
