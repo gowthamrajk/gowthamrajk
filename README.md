@@ -14,7 +14,7 @@
 [<img align="left" alt="GowthamRaj  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GowthamRaj  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![](https://img.shields.io/badge/9698382306-25D366?style=social&logo=whatsapp&logoColor=white)]()
+[![](https://img.shields.io/badge/9698382306-25D366?style=social&logo=whatsapp&logoColor=green)]()
 <br />
 <br />
 
@@ -33,10 +33,10 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?label=Follow&style=social)](https://twitter.com/Gowtham29341737)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social)](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=red)](https://instagram.com/gow_t_h_a_m_r_a_j)
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=social&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/gowthamraj692)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&label=Connect&logoColor=blue)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social&label=Subscribe)](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=social&label=follow&logo=instagram&logoColor=red)](https://instagram.com/gow_t_h_a_m_r_a_j)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=social&label=visit&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/gowthamraj692)
 
 ## My Profile Trophy Stars 📺
 
