@@ -59,7 +59,7 @@
 ![](https://img.shields.io/badge/UML-cc7b25?style=for-the-badge&logo=uml&logoColor=white)
 ![](https://img.shields.io/badge/SQL-27356b?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PLSQL-2e5e73?style=for-the-badge&logo=plsql&logoColor=white)
-![](https://img.shields.io/badge/?style=for-the-badge&message=Problem+solving&color=E34F26&logo=problem+solving&logoColor=white)
+![](https://img.shields.io/badge/problem?style=for-the-badge&message=Problem+solving&color=E34F26&logo=problem+solving&logoColor=white)
 ![](https://img.shields.io/badge/Data+Structures-F7DF1E?style=for-the-badge&logo=dsa&logoColor=black)
 ![](https://img.shields.io/badge/Algorithms-25A162?style=for-the-badge&logo=algo&logoColor=FFFFFF)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
