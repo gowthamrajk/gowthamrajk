@@ -1,4 +1,4 @@
-## Hi there, I'm GowthamRaj K(https://gowthamrajk.github.io/gowthamrajk-portfolio/) 👋👋
+## Hi there, I'm [GowthamRaj K](https://gowthamrajk.github.io/gowthamrajk-portfolio/) 👋👋
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker;I+create+outstanding+presentations;I'm+interested+to+develop+new+things)
 
