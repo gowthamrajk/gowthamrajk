@@ -163,7 +163,7 @@
 
 </div>
 
-[website1]: https://sites.google.com/view/code-jamm
+[website1]: https://gowthamrajk.github.io/gowthamrajk-portfolio/
 [hackerrank]: https://www.hackerrank.com/gowthamraj692
 [website]: https://github.com/gowthamrajk
 [twitter]: https://twitter.com/Gowtham29341737
