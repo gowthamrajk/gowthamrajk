@@ -1,6 +1,6 @@
 ## Hi there, I'm [GowthamRaj K](https://gowthamrajk.github.io/gowthamrajk-portfolio/) 👋👋
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker;I+create+outstanding+presentations;I'm+interested+to+develop+new+things)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Fullstack+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker;I+create+outstanding+presentations;I'm+interested+to+develop+new+things)
 
 <img align="right" alt="Coding" width="370" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamrajk&label=Visitors&color=blue&style=plastic" alt="gowthamrajk" /> </p>
