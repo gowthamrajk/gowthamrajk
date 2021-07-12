@@ -56,6 +56,7 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/JSP-c43e1f?style=for-the-badge&logo=jsp&logoColor=white)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=6DB33F&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/UML-cc7b25?style=for-the-badge&logo=uml&logoColor=white)
 ![](https://img.shields.io/badge/SQL-27356b?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PLSQL-2e5e73?style=for-the-badge&logo=plsql&logoColor=white)
