@@ -140,6 +140,8 @@
 
 <table>
   <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=tokyonight&locale=en" alt="gowthamrajk" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamrajk&show_icons=true&theme=radical&locale=en&layout=compact" alt="gowthamrajk" /></td>
    <td>[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamrajk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</td>
    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=radical&locale=en" alt="gowthamrajk" /></p></td>
     </tr>
