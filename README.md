@@ -138,10 +138,12 @@
 
 ## My Github Stats ❤️ 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamrajk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=radical&locale=en" alt="gowthamrajk" /></p>
-
+<table>
+  <tr>
+   <td>[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamrajk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</td>
+   <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamrajk&show_icons=true&theme=radical&locale=en" alt="gowthamrajk" /></p></td>
+    </tr>
+</table>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamrajk&theme=radical&" alt="gowthamrajk" /></p>
 
 <details> 
