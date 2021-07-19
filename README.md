@@ -145,8 +145,9 @@
     </tr>
 </table>
 
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamrajk&theme=radical&" alt="gowthamrajk" /></p>
+</div>
 
 <details> 
   <summary>📈 Activity Graph</summary>
