@@ -77,7 +77,7 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Problem+solving&color=E34F26&logo=problem+solving&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Data+structures&color=F7DF1E&logo=problem+solving&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Algorithms&color=25A162&logo=problem+solving&logoColor=FFFFFF&label=)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&message=Team+Management&logoColor=black)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Team+Management&color=black&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=Leadership&color=3178C6&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=event+Management&color=DD0031&logoColor=FFFFFF&label=)
 
