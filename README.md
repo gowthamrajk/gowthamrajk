@@ -114,10 +114,11 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 
+## 💻 Operating System
+
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 
-
-## Competetive Coding 🥅
+## 🥅 Competetive Coding Platforms 
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=HackerEarth&color=2C3454&logo=HackerEarth&logoColor=FFFFFF&label=)
