@@ -72,14 +72,19 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 
+## 📈 Competetive Skills
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Problem+solving&color=E34F26&logo=problem+solving&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Data+structures&color=F7DF1E&logo=problem+solving&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Algorithms&color=25A162&logo=problem+solving&logoColor=FFFFFF&label=)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&message=Team+Management&logoColor=black)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=Leadership&color=3178C6&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=event+Management&color=DD0031&logoColor=FFFFFF&label=)
 
 ![](https://img.shields.io/badge/SQL-27356b?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PLSQL-2e5e73?style=for-the-badge&logo=plsql&logoColor=white)
 
 
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Problem+solving&color=E34F26&logo=problem+solving&logoColor=FFFFFF&label=)
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Data+structures&color=F7DF1E&logo=problem+solving&logoColor=FFFFFF&label=)
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Algorithms&color=25A162&logo=problem+solving&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 
