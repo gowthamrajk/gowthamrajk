@@ -174,7 +174,7 @@
 </div>
 
 <details> 
-  <summary>📈 Activity Graph</summary>
+  <summary><b> 📈 Activity Graph </b></summary>
   <br/>
   <img src="https://activity-graph.herokuapp.com/graph?username=gowthamrajk&theme=github" alt="gowthamrajk's github activity graph"/>
 </details>
