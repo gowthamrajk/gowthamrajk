@@ -40,7 +40,7 @@
 
 ## 📺 Profile Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowthamrajk&theme=monokai" alt="gowthamrajk" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowthamrajk&theme=monokai" alt="gowthamrajk" /></a> </p>
 
 ## 📫 Github Badges 
 
