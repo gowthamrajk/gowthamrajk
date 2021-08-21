@@ -136,8 +136,9 @@
 
 ## 🤔 More About Me 
 
-### - I own a website (CODE JAMM) were you can find the learing materials and sample programs for java from Scratch with example problems and solutions.
-(Link: https://sites.google.com/view/code-jamm )
+### - I own a website (CODE JAMM) were you can find the learing materials and sample programs for java from Scratch with example problems and solutions. 
+
+### 🌐 Demo @ [CODE JAMM](https://sites.google.com/view/code-jamm)
 
 ### - I am an OverAll ECE Department All Rounder for the Academic year 2020-2021**
 
