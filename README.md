@@ -143,7 +143,7 @@
 
 ### - Ex-President - Technical clubs @ SLC-SECE
 
-### To know more about me and my Leadership skills and my achievements, visiti my [portfolio](https://gowthamrajk.github.io/) and my [LinkedIn Profile](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
+### To know more about me, my Leadership and my achievements, visiti my [portfolio](https://gowthamrajk.github.io/) and my [LinkedIn Profile](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
 
 ---
 
