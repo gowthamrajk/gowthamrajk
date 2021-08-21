@@ -19,10 +19,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> and if you want to say <b>hi, My Inbox is open all time for any kind of support or Guidence!!!</b> 😊</em>
-
-<br>
-
 ## Interesting Facts !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I love Problem Solving ans Application Development !!!
@@ -35,13 +31,18 @@
 - 🥅 2021 Goals: Contribute more, learn and Create more !!
 - ⚡ Fun fact: Big Fan to Listen Music & Sketching
 
-
 [![Twitter](https://img.shields.io/twitter/follow/Gowtham29341737?label=Follow&style=social)](https://twitter.com/Gowtham29341737)
 [![GitHub gowthamrajk](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/gowthamrajk)
 [![](https://img.shields.io/badge/LinkedIn-E4405F?style=social&logo=linkedin&label=Connect&logoColor=blue)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social&label=Subscribe)](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=social&label=follow&logo=instagram&logoColor=red)](https://instagram.com/gow_t_h_a_m_r_a_j)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=social&label=visit&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/gowthamraj692)
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> and if you want to say <b>hi, My Inbox is open all time for any kind of support or Guidence!!!</b> 😊</em>
+
+<br>
 
 ## 📫 Github Badges 
 
