@@ -136,10 +136,6 @@
 
 ## 🤔 More About Me 
 
-- I am very good in creating outstanding presentations, Design thinking and Project Ideas Generations. 
-
-- I am good at creating beautiful UI mobile applications and Front-End web contents.
-
 - **I own a website (CODE JAMM) were you can find the learing materials and sample programs for java from Scratch with example problems and solutions.
 (Link: https://sites.google.com/view/code-jamm )**
 
