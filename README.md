@@ -187,7 +187,7 @@
 
 </div>
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="/assets/Thanks.svg"/> 
+<img align='center'  height="100" alt="Thanks" width="100%" src="/assets/Thanks.svg"/> 
 
 [website1]: https://gowthamrajk.github.io/gowthamrajk-portfolio/
 [hackerrank]: https://www.hackerrank.com/gowthamraj692
