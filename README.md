@@ -68,6 +68,7 @@
 ![](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/AJAX-6DB33F?style=for-the-badge&logo=ajax&logoColor=black)
 ![](https://img.shields.io/badge/JSP-c43e1f?style=for-the-badge&logo=jsp&logoColor=white)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=JSTL&color=25A162&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=6DB33F&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/UML-cc7b25?style=for-the-badge&logo=uml&logoColor=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
