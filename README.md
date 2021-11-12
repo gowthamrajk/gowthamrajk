@@ -73,7 +73,6 @@
 ![](https://img.shields.io/badge/UML-cc7b25?style=for-the-badge&logo=uml&logoColor=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=25A162&logoColor=FFFFFF&label=)
-![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Web&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+ORM&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
