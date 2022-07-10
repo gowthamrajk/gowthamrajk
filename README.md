@@ -17,7 +17,7 @@
 [<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [![](https://img.shields.io/badge/9698382306-25D366?style=social&logo=whatsapp&logoColor=green)]()
 
-## Interesting Facts !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Interesting Facts !!! 🤔
 
 - 🔭 I love Problem Solving ans Application Development !!!
 - 🚀 **visit my Portfolio @ [GowthamRaj K](https://gowthamrajk.github.io/)**
