@@ -15,7 +15,6 @@
 [<img align="left" alt="GowthamRaj  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GowthamRaj  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![](https://img.shields.io/badge/9698382306-25D366?style=social&logo=whatsapp&logoColor=green)]()
 
 ## Interesting Facts !!! 🤔
 
@@ -23,8 +22,6 @@
 - 🚀 **visit my Portfolio @ [GowthamRaj K](https://gowthamrajk.github.io/)**
 - 🌱 currently Playing with Web Dev 🤣
 - 💬 Ask me about Design Thinking and Outstanding Presentations 
-- 📫 How to reach me: [gowthamraj692@gmail.com](mailto:gowthamraj692@gmail.com)
-- 🤔 I’m looking to collaborate on Full stack web development
 - 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Contribute more, learn and Create more !!
 - ⚡ Fun fact: Big Fan to Listen Music & Sketching
