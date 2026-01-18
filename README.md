@@ -16,7 +16,8 @@
 [<img align="left" alt="GowthamRaj  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br>
+<br/>
+
 ## Interesting Facts !!! 🤔
 
 - 🔭 I love Problem Solving ans Application Development !!!
